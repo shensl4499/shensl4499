@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center"> 
+  <a href="https://waner.run">
+    <img alt="view online" src="https://img.shields.io/badge/waner.run-%E7%82%B9%E5%87%BB%E6%9F%A5%E7%9C%8B-brightgreen"/>
+  </a>
+</div>
+<div>
+  <img style="pointer-events: none" src="github-metrics.svg"> 
+</div>
