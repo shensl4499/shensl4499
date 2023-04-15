@@ -6,10 +6,6 @@ on:
   schedule:
     - cron: "0 16 * * *"
 
-env:
-  GITHUB_NAME: shensl4499
-  GITHUB_EMAIL: 1097046794@qq.com
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -45,8 +41,8 @@ jobs:
 
       - name: Commit and push if changed
         run: |-
-          git config --local user.email "${{ env.GITHUB_EMAIL }}"
-          git config --local user.name "${{ env.GITHUB_NAME }}"
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
           git add .
           git commit -m "ci: update profile (automatically)" || echo "nothing to commit"
           git push || echo "nothing to push"
