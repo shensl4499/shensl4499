@@ -25,7 +25,7 @@ def formatGMTime(timestamp):
 
 def fetch_blog():
     '''解析博客'''
-    items = feedparser.parse('https://uc920.top/rss.xml')['entries']
+    items = feedparser.parse('https://uc920.top/atom.xml')['entries']
     return [
         {
             "title": item.title,
