@@ -1,25 +1,34 @@
-### Hi there 👋
+#### Hi there 👋
 
-<!--
-**shensl4499/shensl4499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![blog](https://img.shields.io/badge/-blog-blueviolet)](https://uc920.top)
+[![running](https://img.shields.io/badge/-running-brightgreen)](https://waner.run)
+[![Visits Badge](https://badges.strrl.dev/visits/shensl4499/shensl4499?style=flat-square)](https://github.com/shensl4499)
 
-Here are some ideas to get you started:
+<p>就是玩！</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<div align="center"> 
-  <a href="https://waner.run">
-    <img alt="view online" src="https://img.shields.io/badge/waner.run-%E7%82%B9%E5%87%BB%E6%9F%A5%E7%9C%8B-brightgreen"/>
-  </a>
-</div>
-<div>
-  <img style="pointer-events: none" src="github-metrics.svg"> 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
+| <a href="https://github.com/shensl4499"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shensl4499&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/shensl4499"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shensl4499&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+
+#### 📚 最近在读
+
+<!-- weread starts -->
+- 《曹操》-易中天
+<!-- weread ends -->
+
+#### 📑 最新博客
+
+<!-- blog starts -->
+<!-- blog ends -->
+
+#### 🏃‍♂️ 跑步
+![2023](github_2023.svg)
+
