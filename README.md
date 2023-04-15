@@ -23,11 +23,6 @@
 - 《曹操》-易中天
 <!-- weread ends -->
 
-#### 📑 最新博客
-
-<!-- blog starts -->
-<!-- blog ends -->
-
 #### 🏃‍♂️ 跑步
 ![2023](github_2023.svg)
 
